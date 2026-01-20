@@ -12,3 +12,4 @@ if __name__ == "__main__":
     print("Sum of 10 and 5 is:", add_numbers(10, 5))
 
 print("The code was successfully executed")
+print("Bye")
